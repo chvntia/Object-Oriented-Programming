@@ -20,3 +20,6 @@ public class Main {
         l1.sendEmail("chyntiaoktavia2410@gmail.com" , "chyntiaoktaviaz@student.telkomuniversity.ac.id");
     }
 }
+
+
+

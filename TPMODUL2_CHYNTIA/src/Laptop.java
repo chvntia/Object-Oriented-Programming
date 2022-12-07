@@ -29,3 +29,4 @@ public class Laptop extends Perangkat{
         System.out.println("Laptop " + this.name + " Send Email to " +email + " and " +email2);
     }
 }
+
